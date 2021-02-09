@@ -1,0 +1,922 @@
+2021-02-07 18:19:35,090 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 53065 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-07 18:19:35,103 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-07 18:19:35,105 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-07 18:19:39,267 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 4.643 seconds (JVM running for 6.723)
+2021-02-07 18:19:39,269 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-07 18:19:39,269 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-07 18:19:39,269 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-07 18:19:39,269 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 18:19:39,270 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 18:30:21,676 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 59203 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-07 18:30:21,689 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-07 18:30:21,690 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-07 18:30:25,945 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 4.792 seconds (JVM running for 6.397)
+2021-02-07 18:30:25,949 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-07 18:30:25,949 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-07 18:30:25,949 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-07 18:30:25,950 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 18:30:25,950 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 19:03:04,170 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 77769 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-07 19:03:04,187 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-07 19:03:04,188 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-07 19:03:08,699 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 5.122 seconds (JVM running for 6.92)
+2021-02-07 19:03:08,701 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-07 19:03:08,702 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-07 19:03:08,702 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-07 19:03:08,702 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 19:03:08,702 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 19:04:26,028 INFO c.e.d.s.c.UserController [http-nio-8080-exec-2] Getting all user from database : 
+2021-02-07 19:04:26,792 DEBUG c.e.d.s.c.UserController [http-nio-8080-exec-2] data : 
+2021-02-07 19:05:37,272 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 79265 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-07 19:05:37,288 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-07 19:05:37,289 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-07 19:05:41,079 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 4.342 seconds (JVM running for 5.859)
+2021-02-07 19:05:41,081 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-07 19:05:41,081 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-07 19:05:41,082 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-07 19:05:41,082 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 19:05:41,082 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 19:05:54,665 INFO c.e.d.s.c.UserController [http-nio-8080-exec-1] Getting all user from database : 
+2021-02-07 19:05:55,092 DEBUG c.e.d.s.c.UserController [http-nio-8080-exec-1] data : 
+2021-02-07 19:09:13,692 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 81349 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-07 19:09:13,710 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-07 19:09:13,712 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-07 19:09:18,150 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 4.976 seconds (JVM running for 6.501)
+2021-02-07 19:09:18,152 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-07 19:09:18,152 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-07 19:09:18,153 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-07 19:09:18,153 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 19:09:18,153 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 19:09:22,318 INFO c.e.d.s.c.UserController [http-nio-8080-exec-2] Getting all user from database : 
+2021-02-07 19:09:22,592 DEBUG c.e.d.s.c.UserController [http-nio-8080-exec-2] data : 
+2021-02-07 20:22:55,023 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] [http-nio-8080-exec-5] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.RuntimeException: Id not found-99] with root cause
+java.lang.RuntimeException: Id not found-99
+	at com.example.demo.swaggerdemo.controller.UserController.lambda$deleteUser$2(UserController.java:147) ~[classes/:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at com.example.demo.swaggerdemo.controller.UserController.deleteUser(UserController.java:147) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doDelete(FrameworkServlet.java:930) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:666) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+2021-02-07 20:24:11,570 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 90990 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-07 20:24:11,597 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-07 20:24:11,600 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-07 20:24:16,521 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 5.474 seconds (JVM running for 7.025)
+2021-02-07 20:24:16,524 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-07 20:24:16,524 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-07 20:24:16,524 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-07 20:24:16,524 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 20:24:16,525 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 20:36:07,298 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 97704 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-07 20:36:07,323 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-07 20:36:07,324 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-07 20:36:11,562 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 4.775 seconds (JVM running for 7.007)
+2021-02-07 20:36:11,565 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-07 20:36:11,565 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-07 20:36:11,565 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-07 20:36:11,565 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 20:36:11,565 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 20:36:51,322 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 98183 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-07 20:36:51,329 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-07 20:36:51,329 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-07 20:36:56,237 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 5.404 seconds (JVM running for 7.009)
+2021-02-07 20:36:56,240 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-07 20:36:56,240 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-07 20:36:56,240 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-07 20:36:56,241 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 20:36:56,241 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 20:37:56,798 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 98797 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-07 20:37:56,808 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-07 20:37:56,809 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-07 20:38:01,152 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 4.879 seconds (JVM running for 6.492)
+2021-02-07 20:38:01,154 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-07 20:38:01,155 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-07 20:38:01,155 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-07 20:38:01,155 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 20:38:01,155 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 20:38:04,883 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] [http-nio-8080-exec-2] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.RuntimeException: Id not found-99] with root cause
+java.lang.RuntimeException: Id not found-99
+	at com.example.demo.swaggerdemo.controller.UserController.lambda$deleteUser$2(UserController.java:147) ~[classes/:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at com.example.demo.swaggerdemo.controller.UserController.deleteUser(UserController.java:147) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doDelete(FrameworkServlet.java:930) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:666) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+2021-02-07 20:38:43,768 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] [http-nio-8080-exec-2] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.RuntimeException: Id not found-99] with root cause
+java.lang.RuntimeException: Id not found-99
+	at com.example.demo.swaggerdemo.controller.UserController.lambda$deleteUser$2(UserController.java:147) ~[classes/:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at com.example.demo.swaggerdemo.controller.UserController.deleteUser(UserController.java:147) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doDelete(FrameworkServlet.java:930) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:666) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+2021-02-07 20:39:12,585 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-02-07 20:39:12,638 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 48ms. Found 2 repository interfaces.
+2021-02-07 20:39:12,939 INFO o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$319b4719] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-02-07 20:39:13,178 INFO o.a.c.h.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-02-07 20:39:13,196 INFO o.a.c.c.StandardService [main] Starting service [Tomcat]
+2021-02-07 20:39:13,196 INFO o.a.c.c.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-02-07 20:39:13,334 INFO o.a.c.c.C.[.[.[/] [main] Initializing Spring embedded WebApplicationContext
+2021-02-07 20:39:13,335 INFO o.s.w.c.ContextLoader [main] Root WebApplicationContext: initialization completed in 2012 ms
+2021-02-07 20:39:13,496 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2021-02-07 20:39:13,596 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-02-07 20:39:13,637 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2021-02-07 20:39:13,681 INFO o.h.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2021-02-07 20:39:13,682 INFO o.h.c.Environment [main] HHH000206: hibernate.properties not found
+2021-02-07 20:39:13,819 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2021-02-07 20:39:13,902 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+2021-02-07 20:39:13,914 INFO o.h.e.j.e.i.LobCreatorBuilderImpl [main] HHH000422: Disabling contextual LOB creation as connection was null
+2021-02-07 20:39:13,918 INFO o.h.t.BasicTypeRegistry [main] HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@73dbe25
+2021-02-07 20:39:14,547 INFO o.s.o.j.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-02-07 20:39:15,168 INFO s.d.s.w.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-02-07 20:39:15,293 INFO o.s.s.c.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-07 20:39:15,464 INFO s.d.s.w.p.DocumentationPluginsBootstrapper [main] Context refreshed
+2021-02-07 20:39:15,484 INFO s.d.s.w.p.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2021-02-07 20:39:15,524 INFO s.d.s.w.s.ApiListingReferenceScanner [main] Scanning for api listing references
+2021-02-07 20:39:15,800 INFO o.a.c.h.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-02-07 20:39:20,084 INFO o.a.c.c.C.[.[.[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-02-07 20:39:20,087 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2021-02-07 20:39:20,111 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-2] Completed initialization in 24 ms
+2021-02-07 20:39:20,780 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] [http-nio-8080-exec-2] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.RuntimeException: Id not found-99] with root cause
+java.lang.RuntimeException: Id not found-99
+	at com.example.demo.swaggerdemo.controller.UserController.lambda$deleteUser$2(UserController.java:147) ~[classes/:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at com.example.demo.swaggerdemo.controller.UserController.deleteUser(UserController.java:147) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doDelete(FrameworkServlet.java:930) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:666) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+2021-02-07 20:51:51,450 WARN c.z.h.p.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m37s612ms).
+2021-02-07 20:55:50,477 WARN c.z.h.p.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m59s32ms).
+2021-02-07 20:57:48,293 WARN c.z.h.p.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m27s899ms).
+2021-02-07 21:26:48,615 WARN c.z.h.p.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m30s322ms).
+2021-02-07 21:31:12,009 WARN c.z.h.p.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m53s386ms).
+2021-02-07 21:32:16,281 INFO o.s.s.c.ThreadPoolTaskExecutor [Thread-3] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-07 21:32:16,286 INFO o.s.o.j.LocalContainerEntityManagerFactoryBean [Thread-3] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-02-07 21:32:16,297 INFO c.z.h.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
+2021-02-07 21:32:16,308 INFO c.z.h.HikariDataSource [Thread-3] HikariPool-1 - Shutdown completed.
+2021-02-07 21:32:24,603 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-02-07 21:32:24,724 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 112ms. Found 2 repository interfaces.
+2021-02-07 21:32:25,092 INFO o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$19bf9311] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-02-07 21:32:25,334 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-02-07 21:32:25,349 INFO o.a.c.h.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-02-07 21:32:25,364 INFO o.a.c.c.StandardService [main] Starting service [Tomcat]
+2021-02-07 21:32:25,365 INFO o.a.c.c.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-02-07 21:32:25,460 INFO o.a.c.c.C.[.[.[/] [main] Initializing Spring embedded WebApplicationContext
+2021-02-07 21:32:25,461 INFO o.s.w.c.ContextLoader [main] Root WebApplicationContext: initialization completed in 2054 ms
+2021-02-07 21:32:25,648 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2021-02-07 21:32:25,758 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-02-07 21:32:25,800 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2021-02-07 21:32:25,849 INFO o.h.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2021-02-07 21:32:25,850 INFO o.h.c.Environment [main] HHH000206: hibernate.properties not found
+2021-02-07 21:32:25,995 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2021-02-07 21:32:26,091 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+2021-02-07 21:32:26,103 INFO o.h.e.j.e.i.LobCreatorBuilderImpl [main] HHH000422: Disabling contextual LOB creation as connection was null
+2021-02-07 21:32:26,107 INFO o.h.t.BasicTypeRegistry [main] HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@47b4ac83
+2021-02-07 21:32:26,684 INFO o.s.o.j.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-02-07 21:32:27,153 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-02-07 21:32:27,277 INFO s.d.s.w.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-02-07 21:32:27,414 INFO o.s.s.c.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-07 21:32:27,607 INFO s.d.s.w.p.DocumentationPluginsBootstrapper [main] Context refreshed
+2021-02-07 21:32:27,625 INFO s.d.s.w.p.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2021-02-07 21:32:27,669 INFO s.d.s.w.s.ApiListingReferenceScanner [main] Scanning for api listing references
+2021-02-07 21:32:27,925 INFO o.a.c.h.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-02-07 21:32:27,948 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-02-07 21:32:32,848 INFO o.a.c.c.C.[.[.[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-02-07 21:32:32,852 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2021-02-07 21:32:32,861 INFO o.s.w.s.DispatcherServlet [http-nio-8080-exec-2] Completed initialization in 9 ms
+2021-02-07 21:32:33,026 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] [http-nio-8080-exec-2] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.RuntimeException: Id not found-99] with root cause
+java.lang.RuntimeException: Id not found-99
+	at com.example.demo.swaggerdemo.controller.UserController.lambda$deleteUser$2(UserController.java:147) ~[classes/:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at com.example.demo.swaggerdemo.controller.UserController.deleteUser(UserController.java:147) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doDelete(FrameworkServlet.java:930) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:666) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+2021-02-07 21:40:19,414 WARN c.z.h.p.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m23s555ms).
+2021-02-07 21:40:23,258 INFO o.s.s.c.ThreadPoolTaskExecutor [Thread-3] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-07 21:40:23,265 INFO o.s.o.j.LocalContainerEntityManagerFactoryBean [Thread-3] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-02-07 21:40:23,292 INFO c.z.h.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
+2021-02-07 21:40:23,330 INFO c.z.h.HikariDataSource [Thread-3] HikariPool-1 - Shutdown completed.
+2021-02-07 21:40:30,722 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-02-07 21:40:30,772 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 44ms. Found 2 repository interfaces.
+2021-02-07 21:40:31,095 INFO o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4118b5b5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-02-07 21:40:31,318 INFO o.a.c.h.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-02-07 21:40:31,334 INFO o.a.c.c.StandardService [main] Starting service [Tomcat]
+2021-02-07 21:40:31,334 INFO o.a.c.c.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-02-07 21:40:31,433 INFO o.a.c.c.C.[.[.[/] [main] Initializing Spring embedded WebApplicationContext
+2021-02-07 21:40:31,433 INFO o.s.w.c.ContextLoader [main] Root WebApplicationContext: initialization completed in 1894 ms
+2021-02-07 21:40:31,585 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2021-02-07 21:40:31,697 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-02-07 21:40:31,731 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2021-02-07 21:40:31,766 INFO o.h.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2021-02-07 21:40:31,767 INFO o.h.c.Environment [main] HHH000206: hibernate.properties not found
+2021-02-07 21:40:31,913 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2021-02-07 21:40:32,006 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+2021-02-07 21:40:32,019 INFO o.h.e.j.e.i.LobCreatorBuilderImpl [main] HHH000422: Disabling contextual LOB creation as connection was null
+2021-02-07 21:40:32,023 INFO o.h.t.BasicTypeRegistry [main] HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@58ec8271
+2021-02-07 21:40:32,781 INFO o.s.o.j.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-02-07 21:40:33,468 INFO s.d.s.w.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-02-07 21:40:33,685 INFO o.s.s.c.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-07 21:40:33,898 INFO s.d.s.w.p.DocumentationPluginsBootstrapper [main] Context refreshed
+2021-02-07 21:40:33,926 INFO s.d.s.w.p.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2021-02-07 21:40:33,972 INFO s.d.s.w.s.ApiListingReferenceScanner [main] Scanning for api listing references
+2021-02-07 21:40:34,126 INFO o.a.c.h.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-02-07 21:42:14,262 INFO o.s.s.c.ThreadPoolTaskExecutor [Thread-3] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-07 21:42:14,267 INFO o.s.o.j.LocalContainerEntityManagerFactoryBean [Thread-3] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-02-07 21:42:14,270 INFO c.z.h.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
+2021-02-07 21:42:14,282 INFO c.z.h.HikariDataSource [Thread-3] HikariPool-1 - Shutdown completed.
+2021-02-07 21:42:25,451 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-02-07 21:42:25,503 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 46ms. Found 2 repository interfaces.
+2021-02-07 21:42:25,787 INFO o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6f553fa] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-02-07 21:42:26,008 INFO o.a.c.h.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-02-07 21:42:26,022 INFO o.a.c.c.StandardService [main] Starting service [Tomcat]
+2021-02-07 21:42:26,023 INFO o.a.c.c.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-02-07 21:42:26,117 INFO o.a.c.c.C.[.[.[/] [main] Initializing Spring embedded WebApplicationContext
+2021-02-07 21:42:26,117 INFO o.s.w.c.ContextLoader [main] Root WebApplicationContext: initialization completed in 1626 ms
+2021-02-07 21:42:26,267 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2021-02-07 21:42:26,331 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-02-07 21:42:26,373 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2021-02-07 21:42:26,412 INFO o.h.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2021-02-07 21:42:26,413 INFO o.h.c.Environment [main] HHH000206: hibernate.properties not found
+2021-02-07 21:42:26,518 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2021-02-07 21:42:26,623 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+2021-02-07 21:42:26,635 INFO o.h.e.j.e.i.LobCreatorBuilderImpl [main] HHH000422: Disabling contextual LOB creation as connection was null
+2021-02-07 21:42:26,639 INFO o.h.t.BasicTypeRegistry [main] HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@5eb2972f
+2021-02-07 21:42:27,217 INFO o.s.o.j.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-02-07 21:42:27,845 INFO s.d.s.w.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-02-07 21:42:27,972 INFO o.s.s.c.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-07 21:42:28,141 INFO s.d.s.w.p.DocumentationPluginsBootstrapper [main] Context refreshed
+2021-02-07 21:42:28,161 INFO s.d.s.w.p.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2021-02-07 21:42:28,199 INFO s.d.s.w.s.ApiListingReferenceScanner [main] Scanning for api listing references
+2021-02-07 21:42:28,340 INFO o.a.c.h.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-02-07 21:43:16,109 INFO o.s.s.c.ThreadPoolTaskExecutor [Thread-3] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-07 21:43:16,121 INFO o.s.o.j.LocalContainerEntityManagerFactoryBean [Thread-3] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-02-07 21:43:16,125 INFO c.z.h.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
+2021-02-07 21:43:16,143 INFO c.z.h.HikariDataSource [Thread-3] HikariPool-1 - Shutdown completed.
+2021-02-07 21:43:25,972 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 21:43:25,978 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 21:44:07,739 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 21:44:07,745 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 21:44:17,995 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] [http-nio-8080-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.RuntimeException: Id not found-99] with root cause
+java.lang.RuntimeException: Id not found-99
+	at com.example.demo.swaggerdemo.controller.UserController.lambda$deleteUser$2(UserController.java:147) ~[classes/:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at com.example.demo.swaggerdemo.controller.UserController.deleteUser(UserController.java:147) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doDelete(FrameworkServlet.java:930) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:666) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+2021-02-07 21:44:34,937 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 21:44:34,942 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 21:56:59,220 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 21:56:59,231 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 21:59:45,491 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 21:59:45,497 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 22:01:07,350 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 25069 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-07 22:01:07,357 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-07 22:01:07,358 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-07 22:01:12,466 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 5.994 seconds (JVM running for 8.143)
+2021-02-07 22:01:12,476 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-07 22:01:12,476 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-07 22:01:12,476 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-07 22:01:12,476 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 22:01:12,476 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 22:02:43,320 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 22:02:43,328 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 22:18:47,397 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 34984 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-07 22:18:47,436 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-07 22:18:47,437 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-07 22:18:54,436 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 8.568 seconds (JVM running for 10.938)
+2021-02-07 22:18:54,438 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-07 22:18:54,438 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-07 22:18:54,438 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-07 22:18:54,438 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 22:18:54,438 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 22:20:59,619 INFO c.e.d.s.c.UserController [http-nio-8080-exec-1] Getting all user from database : 
+2021-02-07 22:20:59,941 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] [http-nio-8080-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.util.NoSuchElementException: No value present] with root cause
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:148) ~[?:?]
+	at com.example.demo.swaggerdemo.controller.UserController.getUserById(UserController.java:125) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+2021-02-07 22:21:29,017 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 36535 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-07 22:21:29,040 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-07 22:21:29,189 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-07 22:21:40,291 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 11.779 seconds (JVM running for 14.496)
+2021-02-07 22:21:40,295 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-07 22:21:40,295 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-07 22:21:40,295 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-07 22:21:40,295 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 22:21:40,296 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 22:21:51,604 INFO c.e.d.s.c.UserController [http-nio-8080-exec-2] Getting all user from database : 
+2021-02-07 22:21:51,689 ERROR c.e.d.s.c.UserController [http-nio-8080-exec-2] java.util.NoSuchElementException: No value present
+2021-02-07 22:21:51,720 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] [http-nio-8080-exec-2] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.util.NoSuchElementException: No value present] with root cause
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:148) ~[?:?]
+	at com.example.demo.swaggerdemo.controller.UserController.getUserById(UserController.java:118) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+2021-02-07 22:21:59,418 INFO c.e.d.s.c.UserController [http-nio-8080-exec-4] Getting all user from database : 
+2021-02-07 22:21:59,596 ERROR c.e.d.s.c.UserController [http-nio-8080-exec-4] java.util.NoSuchElementException: No value present
+2021-02-07 22:21:59,598 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] [http-nio-8080-exec-4] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.util.NoSuchElementException: No value present] with root cause
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:148) ~[?:?]
+	at com.example.demo.swaggerdemo.controller.UserController.getUserById(UserController.java:118) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+2021-02-07 22:28:33,430 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 40427 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-07 22:28:33,438 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-07 22:28:33,438 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-07 22:28:45,607 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 13.722 seconds (JVM running for 16.251)
+2021-02-07 22:28:45,610 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-07 22:28:45,610 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-07 22:28:45,610 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-07 22:28:45,610 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-07 22:28:45,610 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-07 22:28:59,352 INFO c.e.d.s.c.UserController [http-nio-8080-exec-2] Getting all user from database : 
+2021-02-07 22:28:59,498 ERROR c.e.d.s.c.UserController [http-nio-8080-exec-2] java.util.NoSuchElementException: No value present
+2021-02-07 22:28:59,526 ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] [http-nio-8080-exec-2] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.RuntimeException: Id not present] with root cause
+java.lang.RuntimeException: Id not present
+	at com.example.demo.swaggerdemo.controller.UserController.getUserById(UserController.java:124) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109) ~[spring-web-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.21.jar:9.0.21]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+2021-02-08 19:38:01,263 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 76852 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-08 19:38:01,276 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-08 19:38:01,277 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-08 19:38:07,820 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 7.102 seconds (JVM running for 10.749)
+2021-02-08 19:38:07,824 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-08 19:38:07,824 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-08 19:38:07,824 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-08 19:38:07,825 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-08 19:38:07,825 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-08 20:10:04,798 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 94885 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-08 20:10:04,821 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-08 20:10:04,826 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-08 20:10:10,486 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 6.182 seconds (JVM running for 7.931)
+2021-02-08 20:10:10,564 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-08 20:10:10,564 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-08 20:10:10,565 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-08 20:10:10,565 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-08 20:10:10,565 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-08 20:10:16,897 INFO c.e.d.s.c.UserController [http-nio-8080-exec-2] Getting all user from database : 
+2021-02-08 20:10:17,131 ERROR c.e.d.s.c.UserController [http-nio-8080-exec-2] java.util.NoSuchElementException: No value present
+2021-02-08 20:10:45,817 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 95294 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-08 20:10:45,831 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-08 20:10:45,832 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-08 20:10:52,792 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 7.612 seconds (JVM running for 9.825)
+2021-02-08 20:10:52,795 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-08 20:10:52,795 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-08 20:10:52,795 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-08 20:10:52,795 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-08 20:10:52,795 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-08 20:11:26,593 INFO c.e.d.s.c.UserController [http-nio-8080-exec-1] Getting all user from database : 
+2021-02-08 20:11:26,884 ERROR c.e.d.s.c.UserController [http-nio-8080-exec-1] java.util.NoSuchElementException: No value present
+2021-02-08 20:23:29,001 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 2758 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-08 20:23:29,015 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-08 20:23:29,016 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-08 20:23:34,024 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 5.878 seconds (JVM running for 8.154)
+2021-02-08 20:23:34,027 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-08 20:23:34,027 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-08 20:23:34,027 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-08 20:23:34,028 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-08 20:23:34,028 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-08 20:25:25,870 INFO c.e.d.s.c.UserController [http-nio-8080-exec-2] Getting all user from database : 
+2021-02-08 20:25:26,320 ERROR c.e.d.s.c.UserController [http-nio-8080-exec-2] java.util.NoSuchElementException: No value present
+2021-02-08 20:30:21,955 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 6746 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-08 20:30:21,970 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-08 20:30:21,971 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-08 20:30:26,941 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 5.953 seconds (JVM running for 8.378)
+2021-02-08 20:30:26,944 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-08 20:30:26,944 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-08 20:30:26,944 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-08 20:30:26,944 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-08 20:30:26,944 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
+2021-02-08 20:38:44,283 INFO c.e.d.s.SwaggerdemoApplication [main] Starting SwaggerdemoApplication on Rijans-MacBook-Pro.local with PID 11472 (started by rijanprajapati in /Users/rijanprajapati/Documents/MavenProject/JAVALESSON/Spring-Boot-Projects/DEMO Project/swaggerdemo)
+2021-02-08 20:38:44,301 DEBUG c.e.d.s.SwaggerdemoApplication [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2021-02-08 20:38:44,302 INFO c.e.d.s.SwaggerdemoApplication [main] No active profile set, falling back to default profiles: default
+2021-02-08 20:38:50,703 INFO c.e.d.s.SwaggerdemoApplication [main] Started SwaggerdemoApplication in 7.028 seconds (JVM running for 8.884)
+2021-02-08 20:38:50,709 DEBUG c.e.d.s.SwaggerdemoApplication [main] Debugging log
+2021-02-08 20:38:50,709 INFO c.e.d.s.SwaggerdemoApplication [main] Info log
+2021-02-08 20:38:50,710 WARN c.e.d.s.SwaggerdemoApplication [main] Hey, This is a warning!
+2021-02-08 20:38:50,710 ERROR c.e.d.s.SwaggerdemoApplication [main] Oops! We have an Error. OK
+2021-02-08 20:38:50,710 FATAL c.e.d.s.SwaggerdemoApplication [main] Damn! Fatal error. Please fix me.
